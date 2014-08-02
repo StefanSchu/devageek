@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Develop a Geek",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "StefanSchu",
+    "githubRepository": "devageek"
+  }
+}
